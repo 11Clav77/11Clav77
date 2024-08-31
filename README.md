@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @11Clav77
-- 👀 I’m interested in C lang and Python
-- 🌱 I’m currently learning ...C and Py
+- 👀 I’m interested in Linux ARCH and Python
+- 🌱 I’m currently learning ...Python
 - 💞️ I’m looking to collaborate on myself
 - 📫 How to reach me ...
 
